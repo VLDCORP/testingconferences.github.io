@@ -254,6 +254,12 @@
   url: https://www.qa-financial.com/events/the-qa-e-commerce-forum-new-york-2019?utm_source=testingconferences
   status: Registration is open
 
+- name: SQA Days - 26 2019
+  location: Minsk, Belarus
+  dates: "November 15-16, 2019"
+  url: https://www.sqadays.com
+  status: Registration is open
+  
 - name: ConTEST NYC 2019
   location: New York, NY, USA
   dates: "November 20-22 2019"
@@ -309,6 +315,13 @@
   url: http://tsqa.org/
   twitter: TISQA_RTP
   status: CFP is Open until November 8th, 2019
+
+- name: SQA Days EU - 2 2020
+  location: Warsaw, Poland
+  dates: "March 20-21, 2020"
+  url: https://www.sqadays.eu/
+  twitter: sqadays
+  status: Registration and CFP are open
 
 - name: TestBash Brighton 2020
   location: Brighton, UK
